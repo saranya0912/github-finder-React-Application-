@@ -97,14 +97,12 @@ img {
 .text-left {
   text-align: left;
 }
-.userinfo{
-  display: flex;
-}
+
 /* Center All */
 .all-center {
   display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 100%;
   margin: auto;
   justify-content: center;
   align-items: center;
